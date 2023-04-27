@@ -2,9 +2,6 @@ import React from "react";
 import {FaHeart, FaRegHeart} from 'react-icons/fa'
 
 function Movie({e,i,like}) {
-
-
-
   return (
     <div data-aos="zoom-in-down"
       key={i}

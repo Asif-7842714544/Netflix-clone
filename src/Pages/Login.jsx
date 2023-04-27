@@ -12,7 +12,7 @@ function Login() {
     const handleLogin=async (e)=>{
         e.preventDefault()
         try {
-            await  signIn(email,password)
+            await signIn(email,password)
         navigate('/')
         } catch (error) {
             console.log(error)
