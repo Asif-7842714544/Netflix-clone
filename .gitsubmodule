@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path ="https://github.com/Asif-7842714544/Netflix-clone.gitgit push add "
+  url = git://url-of-source/
